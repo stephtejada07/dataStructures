@@ -18,4 +18,6 @@ Includes:
 
 
 
-[Data Structures Certification - lynda.com](http://www.lynda.com/ViewCertificate/0F39F3093CF2488B9B759610F3EB6E0C)}
+
+
+[Data Structures Certification - lynda.com](http://www.lynda.com/ViewCertificate/0F39F3093CF2488B9B759610F3EB6E0C)
